@@ -1,5 +1,5 @@
 /**
- * city class - this class will generates city objects with a name, center point(using the former class point),
+ * city class - this class will generates city objects with a name, center point
  * central station point, adjustable count of the residents and number of neighborhoods.
  * notice - this class based on a point class.
  * @author Itay Nir
